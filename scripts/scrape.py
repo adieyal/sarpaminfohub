@@ -60,19 +60,19 @@ supplier_countries = {'NL' : "Netherlands",
                       'IG' : "India/Germany",
                       'UG' : "Uganda"}
 
-fictitious_countries = {'XA' : "Azania",
-                        'XB' : "Buranda",
-                        'XC' : "Equatorial Kundu",
-                        'XD' : "Kambawe",
-                        'XE' : "Katanga",
-                        'XF' : "Matobo",
-                        'XG' : "Moloni Republic",
-                        'XH' : "Nagonia",
-                        'XI' : "Natumbe",
-                        'XJ' : "Zambawi",
-                        'XK' : "Samgola",
-                        'XL' : "Sangala",
-                        'XM' : "Nibia"}
+fictitious_countries = {'XA' : "Seychelles",
+                        'XB' : "Angola",
+                        'XC' : "South Africa",
+                        'XD' : "Tanzania",
+                        'XE' : "Malawi",
+                        'XF' : "Lesotho",
+                        'XG' : "Zimbabwe",
+                        'XH' : "Mozambique",
+                        'XI' : "Swaziland",
+                        'XJ' : "Namibia",
+                        'XK' : "DRC",
+                        'XL' : "Botswana",
+                        'XM' : "Zimbabwe"}
 
 def normalisePrice(raw):
     """
